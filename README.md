@@ -1,0 +1,2 @@
+# notebooks
+Mainly AI Exercices
